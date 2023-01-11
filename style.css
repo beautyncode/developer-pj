@@ -96,3 +96,7 @@ p {
   text-decoration: none;
   text-transform: capitalize;
 }
+@media() {
+  h1 {
+  }
+}
